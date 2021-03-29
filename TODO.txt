@@ -1,0 +1,4 @@
+#What to do for this project?
+
+-Find the job you like to work on the internet for reference
+-List their title and requirement in skill_demand.txt
