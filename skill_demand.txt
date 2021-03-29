@@ -1,5 +1,5 @@
 #List the real position you aspire to work as
-#Highlight Skill and Experience required in that JD
+#Highlight Skill and Experience required in that job Description
 ==============================
 POS:Automation Engineer
 =============================
