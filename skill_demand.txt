@@ -1,0 +1,17 @@
+#List the real position you aspire to work as
+#Highlight Skill and Experience required in that JD
+==============================
+POS:Automation Engineer
+=============================
+- Siemens S7 - Essential
+- B&R - Preferred
+- Elau Schneider - Preferred
+- Zenon and other scada packages - preferred
+- Experience in PET filling equipment - preferred
+- Experience in similar field 3+ years - essential.
+- Experience in Aseptic Filling Technology - preferred
+=============================
+POS:
+=============================
+
+
