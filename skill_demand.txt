@@ -11,7 +11,25 @@ POS:Automation Engineer
 - Experience in similar field 3+ years - essential.
 - Experience in Aseptic Filling Technology - preferred
 =============================
-POS:
-=============================
+POS:Mechatronic Engineer, Platform
+============================= 
+- Bachelors or higher degree in mechatronics engineering or related fields.
+- Deep understanding of sensors used in robotics, and the mechanical and electrical components that are used to support them.
+- Experience in testing hardware reliability, functionality, and making clear reports to be used for root-cause-assessment.
+- Familiar with automotive-related electrical hardware systems.
+- Hands-on experience in computer-aided design/modeling software.
+- Hands-on experience with 3D printing and prototype making of mechanical components.
+- Familiar with PCB design and fluent in one major ECAD software.
+- Familiar with embedded design procedure, familiar with either a major family of microprocessor or FPGA.
+- Knowledge in at least one kind of embedded-related programming.
+- Experience in software development, code review, testing, bug fixes, and troubleshooting.
+- Hands-on experience in version control systems.
+- Strong analytical skills, analyzing and interpreting the relevant data.
+- Master’s or higher - degree in mechatronics engineering or related fields.
+- Experience in Robotics and Robot Operating System (ROS).
+- Experience in Python and C++ software development.
+- Proficiency in computer vision and LIDAR technologies.
+- Experience in autonomous driving industries.
+- Experience in conducting research and summarizing the findings.
 
 
