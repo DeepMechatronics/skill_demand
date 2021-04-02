@@ -31,5 +31,64 @@ POS:Mechatronic Engineer, Platform
 - Proficiency in computer vision and LIDAR technologies.
 - Experience in autonomous driving industries.
 - Experience in conducting research and summarizing the findings.
+================================================================
+Robotics Engineer
+===============================================================
+[3~1. Technical: 
 
+a. Analyses the system layout and description, with regard to control engineering standards and special parts.
 
+b. PLC and robot logic development.
+
+c. Testing the PLC program and robot program according to the protocol system on simulation. Assists with acceptance testing and hands over the results of the tests to the Project Manager for final acceptance.
+
+d. Involve in customer communication at the time of DAP and commissioning so as to ensure successful project execution and customer satisfaction, in house and on site. 
+
+e. Technical coaching - guide on technical difficulties raised by team.
+
+f. Explore Smarter, cheaper technology and solutions to bring down the cost by alternative ways.
+
+g. Handling complete project from start at factory, to installation & commissioning on site, along with handover to customer
+
+h. To conduct training for customer and internal team members
+
+i. Involve in service and maintenance of robots on site.
+
+j. PLC program and automation course certified
+
+k. Industrial robot course certified
+
+2. Soft Skills:
+
+a. Manage a team of 2-3 Robotics Engineers for technical guidance, weekly planning and reporting
+
+b. Should match with Armstrong values: self management,  play to win, walk the talk, follow the commitment,.
+
+c. Follow process operational flow, set rituals, standard procedures and documents.
+
+3. Communication:
+
+1. Internal:
+
+a. Reporting to Manager Automation
+
+b. Communication at various level- team leaders, sub ordinates.
+
+2. External:
+
+a. Customer
+
+3. Leadership: To lead team of Team of 2-3 robotic engineers.
+
+Education: BE – Instrumentation / Electrical / Electronics  / Robotics / Mechatronics
+
+Competency: 2-5 yr of experience in Robotics & automation ·
+
+Having core knowledge in Siemens (Siemens S7-300, S7-1200, & S7-1500) & Rockwell automation systems. Ability to program in multiple languages, including ladder logic, FBD,SCL & STL. Ability to read and interpret PLC wiring diagrams, Control Narratives.
+
+Having core knowledge in Industrial robots (Yaskawa, Fuji, ABB, Fanuc, KUKA,..). Ability to program industrial robots, installation & commissioning on site.
+
+Ability to read and interpret control panel electrical wiring diagrams.
+========================================================
+
+=======================================================
